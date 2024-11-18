@@ -11,3 +11,6 @@ public class CustomerApplication {
 	}
 
 }
+
+//git remote -v : 연결된 깃허브 리포지토리 확인
+//git remote remove
